@@ -1,0 +1,363 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flow-for-vscode",
+          "description": "Flow for Visual Studio Code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-12-19T18:58:31Z",
+            "owner": "flow",
+            "repo": "flow-for-vscode",
+            "stars": 997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-flow",
+          "description": "A vim plugin for Flow.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim script",
+            "last_commit": "2019-08-13T02:20:10Z",
+            "owner": "flow",
+            "repo": "vim-flow",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SublimeLinter-flow",
+          "description": "SublimeLinter plugin for JavaScript static type checking, using flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T10:07:56Z",
+            "owner": "SublimeLinter",
+            "repo": "SublimeLinter-flow",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flow-typed",
+          "description": "A central repository for Flow library definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T20:53:17Z",
+            "owner": "flow-typed",
+            "repo": "flow-typed",
+            "stars": 3758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-flowtype",
+          "description": "Get flow errors as eslint errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-29T06:26:46Z",
+            "owner": "gajus",
+            "repo": "eslint-plugin-flowtype",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-runtime",
+          "description": "Runtime type checking for Flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T17:14:46Z",
+            "owner": "gajus",
+            "repo": "flow-runtime",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowgen",
+          "description": "Generate flowtype definition files from TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-06T16:47:54Z",
+            "owner": "joarwilk",
+            "repo": "flowgen",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow",
+          "description": "Binary wrapper for Flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T16:56:41Z",
+            "owner": "flow",
+            "repo": "flow-bin",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-coverage-report",
+          "description": "Generate flow coverage reports in JSON, HTML and in the console.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-05T00:05:27Z",
+            "owner": "rpl",
+            "repo": "flow-coverage-report",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-remove-types",
+          "description": "Removes Flow type annotations from JavaScript files with speed and simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-04-18T07:44:36Z",
+            "owner": "facebookarchive",
+            "repo": "flow-remove-types",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-flowtype",
+          "description": "Run Facebook's Flow in your gulp pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T16:05:16Z",
+            "owner": "stcheng",
+            "repo": "gulp-flowtype",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-modules-flow-types",
+          "description": "generate flow types from CSS Modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-08T18:44:45Z",
+            "owner": "skovhus",
+            "repo": "css-modules-flow-types",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swagger-to-flowtype",
+          "description": "Generate Flow types from swagger file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T19:50:35Z",
+            "owner": "yayoc",
+            "repo": "swagger-to-flowtype",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowtype-loader",
+          "description": "Flow loader for webpack.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-09-13T00:38:12Z",
+            "owner": "torifat",
+            "repo": "flowtype-loader",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-mono-cli",
+          "description": "CLI tool to make working with monorepos easier.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-04-24T23:34:46Z",
+            "owner": "ImmoweltGroup",
+            "repo": "flow-mono-cli",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thrift2flow",
+          "description": "Converts Thrift specs into Flow JavaScript type definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-10T17:42:40Z",
+            "owner": "uber-web",
+            "repo": "thrift2flow",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-scripts",
+          "description": "Utility scripts for Flow. Can generate naive stubs and finds unannotated files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-07T08:40:16Z",
+            "owner": "yangshun",
+            "repo": "flow-scripts",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen-flow-files",
+          "description": "Script for transform JavaScript files to flow definition files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-27T17:02:43Z",
+            "owner": "ilyalesik",
+            "repo": "gen-flow-files",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "javaflow",
+          "description": "Java model to flowtype converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-02-05T17:46:53Z",
+            "owner": "havardh",
+            "repo": "javaflow",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-schema-to-flow-type",
+          "description": "Convert JSON Schema to flow type definitions.",
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "decoders",
+          "description": "Type-safe data validation for Flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T01:05:11Z",
+            "owner": "nvie",
+            "repo": "decoders",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "type-o-rama",
+          "description": "JS type systems interportability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-14T10:32:09Z",
+            "owner": "stereobooster",
+            "repo": "type-o-rama",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flown",
+          "description": "A set of type helpers and utilities for Flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T16:20:20Z",
+            "owner": "lttb",
+            "repo": "flown",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "database-types",
+          "description": "A generic type generator for various databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-12T23:42:59Z",
+            "owner": "gajus",
+            "repo": "database-types",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Packages / Helpers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:02:47.312Z",
+    "original_repository": "dustinspecker/awesome-flow",
+    "original_repository_sha": "6fcc9d426e0445d0968f6b0292f5c0701b179162",
+    "enhanced_repository": "enhansome/enhansome-flow",
+    "enhanced_repository_description": null,
+    "title": "Awesome Flow with stars"
+  }
+}
