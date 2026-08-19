@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45940923,
             "language": "JavaScript",
             "last_commit": "2024-12-19T18:58:31Z",
             "owner": "flow",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25977452,
             "language": "Vim script",
             "last_commit": "2019-08-13T02:20:10Z",
             "owner": "flow",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26897029,
             "language": "Python",
             "last_commit": "2025-04-24T10:07:56Z",
             "owner": "SublimeLinter",
@@ -49,7 +52,7 @@
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42698429,
             "language": "JavaScript",
             "last_commit": "2026-08-13T20:53:17Z",
             "owner": "flow-typed",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51695863,
             "language": "JavaScript",
             "last_commit": "2024-02-29T06:26:46Z",
             "owner": "gajus",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71611551,
             "language": "JavaScript",
             "last_commit": "2022-12-10T17:14:46Z",
             "owner": "gajus",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77906099,
             "language": "TypeScript",
             "last_commit": "2023-11-06T16:47:54Z",
             "owner": "joarwilk",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26831927,
             "language": "Makefile",
             "last_commit": "2026-08-14T23:20:05Z",
             "owner": "flow",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66220346,
             "language": "JavaScript",
             "last_commit": "2021-10-05T00:05:27Z",
             "owner": "rpl",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64060164,
             "language": "JavaScript",
             "last_commit": "2019-04-18T07:44:36Z",
             "owner": "facebookarchive",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26837192,
             "language": "JavaScript",
             "last_commit": "2022-12-06T16:05:16Z",
             "owner": "stcheng",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94547821,
             "language": "JavaScript",
             "last_commit": "2024-10-08T18:44:45Z",
             "owner": "skovhus",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94670341,
             "language": "JavaScript",
             "last_commit": "2022-12-06T19:50:35Z",
             "owner": "yayoc",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64793981,
             "language": "JavaScript",
             "last_commit": "2018-09-13T00:38:12Z",
             "owner": "torifat",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109396287,
             "language": "JavaScript",
             "last_commit": "2022-04-24T23:34:46Z",
             "owner": "ImmoweltGroup",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91628462,
             "language": "JavaScript",
             "last_commit": "2023-08-10T17:42:40Z",
             "owner": "uber-web",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82690965,
             "language": "JavaScript",
             "last_commit": "2017-10-07T08:40:16Z",
             "owner": "yangshun",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166033085,
             "language": "JavaScript",
             "last_commit": "2022-01-27T17:02:43Z",
             "owner": "ilyalesik",
@@ -268,24 +286,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71034081,
             "language": "Java",
             "last_commit": "2019-02-05T17:46:53Z",
             "owner": "havardh",
             "repo": "javaflow",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "json-schema-to-flow-type",
-          "description": "Convert JSON Schema to flow type definitions.",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105810428,
             "language": "TypeScript",
             "last_commit": "2026-06-29T01:05:11Z",
             "owner": "nvie",
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117700696,
             "language": null,
             "last_commit": "2022-11-14T10:32:09Z",
             "owner": "stereobooster",
@@ -322,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127493541,
             "language": "JavaScript",
             "last_commit": "2026-08-11T16:20:20Z",
             "owner": "lttb",
@@ -336,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93543087,
             "language": "JavaScript",
             "last_commit": "2018-11-12T23:42:59Z",
             "owner": "gajus",
@@ -345,16 +362,12 @@
         }
       ],
       "title": "Packages / Helpers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:56:24.836Z",
+    "last_updated": "2026-08-19T12:27:29.480Z",
     "original_repository": "dustinspecker/awesome-flow",
+    "original_repository_id": 65589092,
     "original_repository_sha": "6fcc9d426e0445d0968f6b0292f5c0701b179162",
     "enhanced_repository": "enhansome/enhansome-flow",
     "enhanced_repository_description": null,
