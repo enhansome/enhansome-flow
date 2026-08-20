@@ -33,7 +33,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 * [flow-coverage-report](https://github.com/rpl/flow-coverage-report) ⭐ 500 | 🐛 34 | 🌐 JavaScript | 📅 2021-10-05 - Generate flow coverage reports in JSON, HTML and in the console.
 * [flow-remove-types](https://github.com/flowtype/flow-remove-types) ⚠️ Archived - Removes Flow type annotations from JavaScript files with speed and simplicity.
 * [gulp-flowtype](https://github.com/charliedowler/gulp-flowtype) ⭐ 102 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-06 - Run Facebook's Flow in your gulp pipeline.
-* [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) ⭐ 92 | 🐛 7 | 🌐 JavaScript | 📅 2024-10-08 - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules) ⭐ 17,969 | 🐛 124 | 📅 2024-05-30.
+* [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) ⭐ 92 | 🐛 7 | 🌐 JavaScript | 📅 2024-10-08 - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules) ⭐ 17,967 | 🐛 124 | 📅 2024-05-30.
 * [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) ⭐ 91 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-06 - Generate Flow types from swagger file.
 * [flowtype-loader](https://github.com/torifat/flowtype-loader) ⚠️ Archived - Flow loader for webpack.
 * [flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) ⚠️ Archived - CLI tool to make working with monorepos easier.
@@ -80,4 +80,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
