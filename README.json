@@ -123,7 +123,7 @@
             "archived": false,
             "id": 26831927,
             "language": "Makefile",
-            "last_commit": "2026-08-14T23:20:05Z",
+            "last_commit": "2026-08-22T20:01:35Z",
             "owner": "flow",
             "repo": "flow-bin",
             "stars": 532
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:54:10.049Z",
+    "last_updated": "2026-08-23T02:04:37.433Z",
     "original_repository": "dustinspecker/awesome-flow",
     "original_repository_id": 65589092,
     "original_repository_sha": "6fcc9d426e0445d0968f6b0292f5c0701b179162",
