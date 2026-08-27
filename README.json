@@ -365,9 +365,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:00:17.311Z",
-    "original_repository": "dustinspecker/awesome-flow",
-    "original_repository_id": 65589092,
+    "last_updated": "2026-08-27T11:38:05.321Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 65589092,
+      "language": null,
+      "last_commit": "2019-05-06T11:15:08Z",
+      "owner": "dustinspecker",
+      "repo": "awesome-flow",
+      "stars": 127
+    },
     "original_repository_sha": "6fcc9d426e0445d0968f6b0292f5c0701b179162",
     "enhanced_repository": "enhansome/enhansome-flow",
     "enhanced_repository_description": null,
