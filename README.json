@@ -16,7 +16,8 @@
             "owner": "flow",
             "repo": "flow-for-vscode",
             "stars": 997
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "flow",
             "repo": "vim-flow",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "SublimeLinter",
             "repo": "SublimeLinter-flow",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         }
       ],
       "title": "Integrations"
@@ -67,7 +70,8 @@
             "owner": "flow-typed",
             "repo": "flow-typed",
             "stars": 3757
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "gajus",
             "repo": "eslint-plugin-flowtype",
             "stars": 1069
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "gajus",
             "repo": "flow-runtime",
             "stars": 797
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "joarwilk",
             "repo": "flowgen",
             "stars": 661
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "flow",
             "repo": "flow-bin",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "rpl",
             "repo": "flow-coverage-report",
             "stars": 500
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "facebookarchive",
             "repo": "flow-remove-types",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "stcheng",
             "repo": "gulp-flowtype",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "skovhus",
             "repo": "css-modules-flow-types",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "yayoc",
             "repo": "swagger-to-flowtype",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "torifat",
             "repo": "flowtype-loader",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ImmoweltGroup",
             "repo": "flow-mono-cli",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "uber-web",
             "repo": "thrift2flow",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "yangshun",
             "repo": "flow-scripts",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ilyalesik",
             "repo": "gen-flow-files",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "havardh",
             "repo": "javaflow",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         }
       ],
       "title": "Tools"
@@ -313,7 +332,8 @@
             "owner": "nvie",
             "repo": "decoders",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "stereobooster",
             "repo": "type-o-rama",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "lttb",
             "repo": "flown",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         },
         {
           "node_type": "item",
@@ -358,14 +380,15 @@
             "owner": "gajus",
             "repo": "database-types",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
         }
       ],
       "title": "Packages / Helpers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:05.321Z",
+    "last_updated": "2026-08-28T11:32:01.902Z",
     "original_repository_info": {
       "archived": false,
       "id": 65589092,
