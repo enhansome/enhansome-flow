@@ -25,7 +25,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tools
 
-* [flow-typed](https://github.com/flowtype/flow-typed) ⭐ 3,757 | 🐛 241 | 🌐 JavaScript | 📅 2026-08-13 - A central repository for Flow library definitions.
+* [flow-typed](https://github.com/flowtype/flow-typed) ⭐ 3,756 | 🐛 241 | 🌐 JavaScript | 📅 2026-08-13 - A central repository for Flow library definitions.
 * [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) ⭐ 1,069 | 🐛 40 | 🌐 JavaScript | 📅 2024-02-29 - Get flow errors as eslint errors.
 * [flow-runtime](https://github.com/codemix/flow-runtime) ⭐ 797 | 🐛 101 | 🌐 JavaScript | 📅 2022-12-10 - Runtime type checking for Flow.
 * [flowgen](https://github.com/joarwilk/flowgen) ⭐ 661 | 🐛 58 | 🌐 TypeScript | 📅 2023-11-06 - Generate flowtype definition files from TypeScript.
@@ -80,4 +80,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
