@@ -50,7 +50,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Packages / Helpers
 
-* [decoders](https://github.com/nvie/decoders) ⭐ 444 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-20 - Type-safe data validation for Flow.
+* [decoders](https://github.com/nvie/decoders) ⭐ 445 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-20 - Type-safe data validation for Flow.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) ⭐ 247 | 🐛 1 | 📅 2022-11-14 - JS type systems interportability.
 * [flown](https://github.com/lttb/flown) ⭐ 84 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-11 - A set of type helpers and utilities for Flow.
 * [database-types](https://github.com/gajus/database-types) ⭐ 25 | 🐛 5 | 🌐 JavaScript | 📅 2018-11-12 - A generic type generator for various databases.
@@ -80,4 +80,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

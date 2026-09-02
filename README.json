@@ -487,7 +487,7 @@
             "open_issues": 20,
             "owner": "nvie",
             "repo": "decoders",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "browser",
               "bun",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:20:36.637Z",
+    "last_updated": "2026-09-02T04:46:10.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
