@@ -460,7 +460,7 @@
             "open_issues": 5,
             "owner": "havardh",
             "repo": "javaflow",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:44:16.396Z",
+    "last_updated": "2026-09-04T04:44:18.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
