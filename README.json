@@ -116,7 +116,7 @@
             "open_issues": 40,
             "owner": "gajus",
             "repo": "eslint-plugin-flowtype",
-            "stars": 1069,
+            "stars": 1068,
             "topics": [
               "eslint",
               "flow",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:40:24.496Z",
+    "last_updated": "2026-09-06T04:50:02.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
