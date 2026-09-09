@@ -84,8 +84,8 @@
             "id": 42698429,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:45:25Z",
-            "open_issues": 242,
+            "last_commit": "2026-09-08T12:11:06Z",
+            "open_issues": 241,
             "owner": "flow-typed",
             "repo": "flow-typed",
             "stars": 3756,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T04:51:09.399Z",
+    "last_updated": "2026-09-09T04:53:32.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
