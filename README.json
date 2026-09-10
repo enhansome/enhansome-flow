@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "flow",
             "repo": "flow-for-vscode",
-            "stars": 997,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -88,7 +88,7 @@
             "open_issues": 241,
             "owner": "flow-typed",
             "repo": "flow-typed",
-            "stars": 3756,
+            "stars": 3755,
             "topics": [
               "cli",
               "flow",
@@ -116,7 +116,7 @@
             "open_issues": 40,
             "owner": "gajus",
             "repo": "eslint-plugin-flowtype",
-            "stars": 1067,
+            "stars": 1066,
             "topics": [
               "eslint",
               "flow",
@@ -196,7 +196,7 @@
             "open_issues": 5,
             "owner": "flow",
             "repo": "flow-bin",
-            "stars": 532,
+            "stars": 530,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -217,7 +217,7 @@
             "open_issues": 34,
             "owner": "rpl",
             "repo": "flow-coverage-report",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -238,7 +238,7 @@
             "open_issues": 7,
             "owner": "facebookarchive",
             "repo": "flow-remove-types",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -317,27 +317,6 @@
         },
         {
           "node_type": "item",
-          "title": "flowtype-loader",
-          "description": "Flow loader for webpack.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Flow loader for webpack",
-            "homepage": null,
-            "id": 64793981,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2018-09-13T00:38:12Z",
-            "open_issues": 5,
-            "owner": "torifat",
-            "repo": "flowtype-loader",
-            "stars": 87,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:32:01.902Z"
-        },
-        {
-          "node_type": "item",
           "title": "flow-mono-cli",
           "description": "CLI tool to make working with monorepos easier.",
           "children": [],
@@ -363,6 +342,27 @@
               "workspaces",
               "yarn"
             ]
+          },
+          "first_seen": "2026-08-28T11:32:01.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flowtype-loader",
+          "description": "Flow loader for webpack.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Flow loader for webpack",
+            "homepage": null,
+            "id": 64793981,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2018-09-13T00:38:12Z",
+            "open_issues": 5,
+            "owner": "torifat",
+            "repo": "flowtype-loader",
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
         },
@@ -542,8 +542,8 @@
             "id": 127493541,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:43:39Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-10T02:57:06Z",
+            "open_issues": 4,
             "owner": "lttb",
             "repo": "flown",
             "stars": 84,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:53:32.122Z",
+    "last_updated": "2026-09-10T04:54:41.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
