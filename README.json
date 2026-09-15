@@ -483,11 +483,11 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-20T16:07:29Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-15T04:48:21Z",
+            "open_issues": 8,
             "owner": "nvie",
             "repo": "decoders",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "browser",
               "bun",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:07:53.679Z",
+    "last_updated": "2026-09-15T05:03:05.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
