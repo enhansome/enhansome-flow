@@ -483,8 +483,8 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T16:01:39Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-20T21:23:58Z",
+            "open_issues": 7,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 447,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:02:14.416Z",
+    "last_updated": "2026-09-21T05:08:17.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
