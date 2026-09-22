@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "flow",
             "repo": "flow-for-vscode",
-            "stars": 994,
+            "stars": 993,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -280,7 +280,7 @@
             "open_issues": 7,
             "owner": "skovhus",
             "repo": "css-modules-flow-types",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "css-modules",
               "flow",
@@ -483,8 +483,8 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T21:23:58Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-22T04:48:21Z",
+            "open_issues": 12,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 447,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:08:17.821Z",
+    "last_updated": "2026-09-22T05:09:21.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
