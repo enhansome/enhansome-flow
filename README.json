@@ -138,7 +138,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-12-10T17:14:46Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "gajus",
             "repo": "flow-runtime",
             "stars": 797,
@@ -483,8 +483,8 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T19:53:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-29T04:47:53Z",
+            "open_issues": 7,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 447,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:35:07.062Z",
+    "last_updated": "2026-09-29T05:53:17.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
