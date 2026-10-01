@@ -116,7 +116,7 @@
             "open_issues": 40,
             "owner": "gajus",
             "repo": "eslint-plugin-flowtype",
-            "stars": 1066,
+            "stars": 1065,
             "topics": [
               "eslint",
               "flow",
@@ -483,7 +483,7 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T04:47:53Z",
+            "last_commit": "2026-09-30T10:08:02Z",
             "open_issues": 7,
             "owner": "nvie",
             "repo": "decoders",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:43:39.048Z",
+    "last_updated": "2026-10-01T06:09:21.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
