@@ -88,7 +88,7 @@
             "open_issues": 240,
             "owner": "flow-typed",
             "repo": "flow-typed",
-            "stars": 3753,
+            "stars": 3755,
             "topics": [
               "cli",
               "flow",
@@ -138,7 +138,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-12-10T17:14:46Z",
-            "open_issues": 103,
+            "open_issues": 106,
             "owner": "gajus",
             "repo": "flow-runtime",
             "stars": 797,
@@ -483,11 +483,11 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T04:48:22Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-07T05:48:33Z",
+            "open_issues": 9,
             "owner": "nvie",
             "repo": "decoders",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "browser",
               "bun",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:22:33.860Z",
+    "last_updated": "2026-10-07T06:11:32.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
