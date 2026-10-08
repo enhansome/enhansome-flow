@@ -25,7 +25,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tools
 
-* [flow-typed](https://github.com/flowtype/flow-typed) ⭐ 3,755 | 🐛 240 | 🌐 JavaScript | 📅 2026-09-13 - A central repository for Flow library definitions.
+* [flow-typed](https://github.com/flowtype/flow-typed) ⭐ 3,756 | 🐛 240 | 🌐 JavaScript | 📅 2026-09-13 - A central repository for Flow library definitions.
 * [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) ⭐ 1,065 | 🐛 40 | 🌐 JavaScript | 📅 2024-02-29 - Get flow errors as eslint errors.
 * [flow-runtime](https://github.com/codemix/flow-runtime) ⭐ 797 | 🐛 106 | 🌐 JavaScript | 📅 2022-12-10 - Runtime type checking for Flow.
 * [flowgen](https://github.com/joarwilk/flowgen) ⭐ 661 | 🐛 58 | 🌐 TypeScript | 📅 2023-11-06 - Generate flowtype definition files from TypeScript.
@@ -33,7 +33,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 * [flow-coverage-report](https://github.com/rpl/flow-coverage-report) ⭐ 499 | 🐛 34 | 🌐 JavaScript | 📅 2021-10-05 - Generate flow coverage reports in JSON, HTML and in the console.
 * [flow-remove-types](https://github.com/flowtype/flow-remove-types) ⚠️ Archived - Removes Flow type annotations from JavaScript files with speed and simplicity.
 * [gulp-flowtype](https://github.com/charliedowler/gulp-flowtype) ⭐ 102 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-06 - Run Facebook's Flow in your gulp pipeline.
-* [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) ⭐ 91 | 🐛 7 | 🌐 JavaScript | 📅 2024-10-08 - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules) ⭐ 18,037 | 🐛 124 | 📅 2024-05-30.
+* [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) ⭐ 91 | 🐛 7 | 🌐 JavaScript | 📅 2024-10-08 - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules) ⭐ 18,039 | 🐛 124 | 📅 2024-05-30.
 * [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) ⭐ 91 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-06 - Generate Flow types from swagger file.
 * [flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) ⚠️ Archived - CLI tool to make working with monorepos easier.
 * [flowtype-loader](https://github.com/torifat/flowtype-loader) ⚠️ Archived - Flow loader for webpack.
@@ -80,4 +80,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
