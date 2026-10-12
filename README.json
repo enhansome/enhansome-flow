@@ -516,7 +516,7 @@
             "open_issues": 1,
             "owner": "stereobooster",
             "repo": "type-o-rama",
-            "stars": 247,
+            "stars": 246,
             "topics": [
               "closure-compiler",
               "elm",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:00:51.197Z",
+    "last_updated": "2026-10-12T06:11:05.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
