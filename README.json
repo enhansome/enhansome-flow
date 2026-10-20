@@ -84,8 +84,8 @@
             "id": 42698429,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T10:04:29Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-19T20:39:59Z",
+            "open_issues": 239,
             "owner": "flow-typed",
             "repo": "flow-typed",
             "stars": 3758,
@@ -483,8 +483,8 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T16:20:35Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-20T04:48:29Z",
+            "open_issues": 15,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 447,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T04:55:03.002Z",
+    "last_updated": "2026-10-20T05:01:23.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
