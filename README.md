@@ -25,12 +25,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tools
 
-* [flow-typed](https://github.com/flowtype/flow-typed) ⭐ 3,759 | 🐛 240 | 🌐 JavaScript | 📅 2026-10-30 - A central repository for Flow library definitions.
+* [flow-typed](https://github.com/flowtype/flow-typed) ⭐ 3,759 | 🐛 239 | 🌐 JavaScript | 📅 2026-10-30 - A central repository for Flow library definitions.
 * [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) ⭐ 1,065 | 🐛 40 | 🌐 JavaScript | 📅 2024-02-29 - Get flow errors as eslint errors.
-* [flow-runtime](https://github.com/codemix/flow-runtime) ⭐ 797 | 🐛 106 | 🌐 JavaScript | 📅 2022-12-10 - Runtime type checking for Flow.
+* [flow-runtime](https://github.com/codemix/flow-runtime) ⭐ 796 | 🐛 106 | 🌐 JavaScript | 📅 2022-12-10 - Runtime type checking for Flow.
 * [flowgen](https://github.com/joarwilk/flowgen) ⭐ 660 | 🐛 58 | 🌐 TypeScript | 📅 2023-11-06 - Generate flowtype definition files from TypeScript.
 * [flow](https://github.com/flowtype/flow-bin) ⚠️ Archived - Binary wrapper for Flow.
-* [flow-coverage-report](https://github.com/rpl/flow-coverage-report) ⭐ 500 | 🐛 34 | 🌐 JavaScript | 📅 2021-10-05 - Generate flow coverage reports in JSON, HTML and in the console.
+* [flow-coverage-report](https://github.com/rpl/flow-coverage-report) ⭐ 499 | 🐛 34 | 🌐 JavaScript | 📅 2021-10-05 - Generate flow coverage reports in JSON, HTML and in the console.
 * [flow-remove-types](https://github.com/flowtype/flow-remove-types) ⚠️ Archived - Removes Flow type annotations from JavaScript files with speed and simplicity.
 * [gulp-flowtype](https://github.com/charliedowler/gulp-flowtype) ⭐ 102 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-06 - Run Facebook's Flow in your gulp pipeline.
 * [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) ⭐ 91 | 🐛 7 | 🌐 JavaScript | 📅 2024-10-08 - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules) ⭐ 18,040 | 🐛 124 | 📅 2024-05-30.
@@ -80,4 +80,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
