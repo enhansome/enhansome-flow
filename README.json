@@ -307,7 +307,7 @@
             "open_issues": 16,
             "owner": "yayoc",
             "repo": "swagger-to-flowtype",
-            "stars": 91,
+            "stars": 90,
             "topics": [
               "flowtype",
               "swagger"
@@ -483,11 +483,11 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T04:48:54Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-03T09:21:34Z",
+            "open_issues": 7,
             "owner": "nvie",
             "repo": "decoders",
-            "stars": 447,
+            "stars": 446,
             "topics": [
               "browser",
               "bun",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:59:30.975Z",
+    "last_updated": "2026-11-04T06:41:59.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
