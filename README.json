@@ -138,10 +138,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-12-10T17:14:46Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "gajus",
             "repo": "flow-runtime",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "babel-plugin",
               "flow-runtime",
@@ -168,7 +168,7 @@
             "open_issues": 58,
             "owner": "joarwilk",
             "repo": "flowgen",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "cli",
               "converter",
@@ -196,7 +196,7 @@
             "open_issues": 5,
             "owner": "flow",
             "repo": "flow-bin",
-            "stars": 531,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -238,7 +238,7 @@
             "open_issues": 7,
             "owner": "facebookarchive",
             "repo": "flow-remove-types",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:30:19.889Z",
+    "last_updated": "2026-11-11T06:47:20.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
