@@ -116,7 +116,7 @@
             "open_issues": 40,
             "owner": "gajus",
             "repo": "eslint-plugin-flowtype",
-            "stars": 1065,
+            "stars": 1064,
             "topics": [
               "eslint",
               "flow",
@@ -141,7 +141,7 @@
             "open_issues": 113,
             "owner": "gajus",
             "repo": "flow-runtime",
-            "stars": 797,
+            "stars": 796,
             "topics": [
               "babel-plugin",
               "flow-runtime",
@@ -238,7 +238,7 @@
             "open_issues": 7,
             "owner": "facebookarchive",
             "repo": "flow-remove-types",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:47:20.252Z",
+    "last_updated": "2026-11-12T07:25:26.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
