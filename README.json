@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "flow",
             "repo": "flow-for-vscode",
-            "stars": 996,
+            "stars": 997,
             "topics": []
           },
           "first_seen": "2026-08-28T11:32:01.902Z"
@@ -483,8 +483,8 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T04:48:03Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-17T04:48:19Z",
+            "open_issues": 10,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 448,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T06:49:25.291Z",
+    "last_updated": "2026-11-17T08:08:41.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
