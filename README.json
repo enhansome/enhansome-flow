@@ -116,7 +116,7 @@
             "open_issues": 40,
             "owner": "gajus",
             "repo": "eslint-plugin-flowtype",
-            "stars": 1064,
+            "stars": 1063,
             "topics": [
               "eslint",
               "flow",
@@ -168,7 +168,7 @@
             "open_issues": 58,
             "owner": "joarwilk",
             "repo": "flowgen",
-            "stars": 661,
+            "stars": 662,
             "topics": [
               "cli",
               "converter",
@@ -484,7 +484,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-17T04:48:19Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 448,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:08:41.742Z",
+    "last_updated": "2026-11-18T07:43:06.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
