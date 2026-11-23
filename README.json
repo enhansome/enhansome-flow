@@ -88,7 +88,7 @@
             "open_issues": 239,
             "owner": "flow-typed",
             "repo": "flow-typed",
-            "stars": 3758,
+            "stars": 3759,
             "topics": [
               "cli",
               "flow",
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:07:05.557Z",
+    "last_updated": "2026-11-23T07:53:49.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
