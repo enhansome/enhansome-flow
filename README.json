@@ -88,7 +88,7 @@
             "open_issues": 239,
             "owner": "flow-typed",
             "repo": "flow-typed",
-            "stars": 3759,
+            "stars": 3758,
             "topics": [
               "cli",
               "flow",
@@ -483,8 +483,8 @@
             "id": 105810428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T04:48:19Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-24T04:47:50Z",
+            "open_issues": 13,
             "owner": "nvie",
             "repo": "decoders",
             "stars": 447,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T07:53:49.058Z",
+    "last_updated": "2026-11-24T10:06:16.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
