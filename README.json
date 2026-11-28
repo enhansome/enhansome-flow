@@ -138,7 +138,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-12-10T17:14:46Z",
-            "open_issues": 115,
+            "open_issues": 121,
             "owner": "gajus",
             "repo": "flow-runtime",
             "stars": 795,
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:48:40.750Z",
+    "last_updated": "2026-11-28T08:05:39.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Flow integrations, tools, tutorials, etc.",
